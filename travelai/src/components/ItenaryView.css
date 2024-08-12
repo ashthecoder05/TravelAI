@@ -1,0 +1,40 @@
+.itinerary-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.itinerary-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+p {
+  color: gray;
+}
+.itinerary-container {
+  text-align: center;
+  padding: 10px;
+}
+
+.itinerary-image {
+  width: 230px;
+  max-height: 230px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+p {
+  color: gray;
+}

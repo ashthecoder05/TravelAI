@@ -1,0 +1,25 @@
+.input-box {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 500px; 
+  }
+  
+  .input--primary {
+    border-color: blue;
+  }
+  
+  .input--outline {
+    border-color: green;
+  }
+  
+  .input--medium {
+    width: 200px;
+  }
+  
+  .input--large {
+    width: 800px;
+  }
+  

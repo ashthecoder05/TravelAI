@@ -1,0 +1,20 @@
+.moving-text {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    animation: moveText 10s linear infinite;
+    font-weight: bold; /* Makes the text bold */
+  font-size: 50px;   /* Increases the text size */
+  color: white;      /* Sets the text color to black */
+  }
+  
+  @keyframes moveText {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  

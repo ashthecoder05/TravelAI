@@ -1,0 +1,43 @@
+.trip-planner {
+    text-align: center;
+    margin: 20px;
+    background: #fff;
+  }
+  
+  .options-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+    margin: 20px 0;
+    
+  }
+  
+  .option-button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .option-button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .plan-new-trip-button {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .plan-new-trip-button:hover {
+    background-color: #004494;
+  }
+  
