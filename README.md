@@ -1,5 +1,9 @@
 # TripVisor AI
 
+
+https://github.com/user-attachments/assets/58904059-a72f-4561-b454-ed93e672ac52
+
+
 TripVisor AI is a comprehensive travel planning application that uses AI to generate itineraries, provide visa information, and recommend local cuisine.
 
 ## Table of Contents
